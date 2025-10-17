@@ -1,12 +1,4 @@
 .DS_Store
-Thumbs.db
-__pycache__/
+node_modules/
+venv/
 *.pyc
-*.out
-*.exe
-*.log
-.vscode/
-.idea/
-*.env
-*.key
-*.pem
